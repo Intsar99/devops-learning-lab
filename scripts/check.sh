@@ -13,4 +13,4 @@ if [[ ! -f "scripts/hello.sh" ]]; then
   exit 1
 fi
 
-echo "==> Checks passed"
+echo "==> Checks passed intesar "
