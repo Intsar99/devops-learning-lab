@@ -3,7 +3,7 @@ set -euo pipefail
 
 echo "==> Running basic checks"
 
-if [[ ! -f "README.md" ]]; then
+if [[ ! -f "README2.md" ]]; then
   echo "ERROR: README.md is missing"
   exit 1
 fi
